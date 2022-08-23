@@ -1,6 +1,6 @@
 {
-    "name": "edm",
-    "version-string": "1.4.0",
+    "name": "cppabc",
+    "version-string": "0.1.0",
     "dependencies": [
     	"benchmark", "eigen3", "fmt"
     ]
